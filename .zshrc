@@ -98,7 +98,8 @@ bindkey -M visual '^[[P' vi-delete
 
 # changing the theme
 source $ZDOTDIR/plugins/powerlevel10ik/powerlevel10k.zsh-theme
-
+# TODO 
+# Add https://github.com/jeffreytse/zsh-vi-mode VI-mode
 # Load autosuggestion for zsh
 source ~/.config/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 # Load syntax highlighting; should be last.
