@@ -97,8 +97,8 @@ bindkey -M visual '^[[P' vi-delete
 
 # changing the theme
 source $ZDOTDIR/plugins/powerlevel10ik/powerlevel10k.zsh-theme
-# TODO 
-# Add https://github.com/jeffreytse/zsh-vi-mode VI-mode
+# Load zsh-vi-mode
+source ~/.config/zsh/plugins/zsh-vi-mode/zsh-vi-mode.plugin.zsh
 # Load autosuggestion for zsh
 source ~/.config/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 # Load history-substring-search 
