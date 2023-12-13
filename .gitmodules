@@ -1,0 +1,15 @@
+[submodule "/home/raul/.config/zsh/plugins/zsh-vi-mode"]
+	path = /home/raul/.config/zsh/plugins/zsh-vi-mode
+	url = https://github.com/jeffreytse/zsh-vi-mode.git
+[submodule "/home/raul/.config/zsh/plugins/zsh-history-substring-search"]
+	path = /home/raul/.config/zsh/plugins/zsh-history-substring-search
+	url = https://github.com/zsh-users/zsh-history-substring-search
+[submodule "/home/raul/.config/zsh/plugins/fast-syntax-highlighting"]
+	path = /home/raul/.config/zsh/plugins/fast-syntax-highlighting
+	url = https://github.com/z-shell/F-Sy-H
+[submodule "/home/raul/.config/zsh/plugins/powerlevel10ik"]
+	path = /home/raul/.config/zsh/plugins/powerlevel10ik
+	url = https://github.com/romkatv/powerlevel10k.git
+[submodule "/home/raul/.config/zsh/plugins/zsh-autosuggestions"]
+	path = /home/raul/.config/zsh/plugins/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions
